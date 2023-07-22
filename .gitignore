@@ -2,6 +2,10 @@
 .data/
 data/
 
+# Artifacts
+*_ckpt
+*.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

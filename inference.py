@@ -112,7 +112,11 @@ def predict(args):
         input_dummy = torch.randint(low=0, high=255, 
                                     size=(3,1500,1500), dtype=torch.uint8) 
         iteration = 2500
-
+        
+        if True: # on gpu
+            input_dummy = input_dummy.to(device)
+            inference_model.to(device)
+            
         # warmup
         _ = inference_model(input_dummy) 
 
