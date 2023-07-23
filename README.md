@@ -2,11 +2,15 @@
 
 ## Results
 
-### accuracy vs model size vs cpu performance
+### accuracy vs cpu performance vs model size
 ![cpu](logs/comparison_cpu.jpg)
 
-### accuracy vs model size vs gpu performance
+**CPU** : `Intel(R) Xeon(R) CPU E5-2667 v3 @ 3.20GHz`
+
+### accuracy vs gpu performance vs model size
 ![gpu](logs/comparison_gpu.jpg)
+
+**GPU**: `NVIDIA Quadro RTX 6000`
 
 ## Attribution
 
