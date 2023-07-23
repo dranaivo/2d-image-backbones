@@ -1,5 +1,19 @@
 # 2D Backbones
 
+## Experiments' configurations
+
+**Dataset**: `CUB_200_2011`(birds classification).
+
+**Inference timing**: end-to-end, 2500 iterations with an input being a `1500x1500x3 uint8` tensor.
+
+**Training's configurations and models** :
+
+|               | alexnet | vgg 11 | resnet 18 | convnext base | efficient b0 |
+|---------------|---------|--------|-----------|---------------|--------------|
+| batch size    | 512     | 256    | 512       | 64            | 256          |
+| learning rate | 6e-4    | 7e-4   | 1e-3      | 6e-4          | 2e-3         |
+| epochs        | 30      | 30     | 30        | 30            | 30           |
+
 ## Results
 
 ### accuracy vs cpu performance vs model size
