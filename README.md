@@ -1,12 +1,34 @@
 # 2D Backbones
 
+## Models
+
+### Alexnet
+
+![alexnet](assets/alexnet.svg)
+
+### VGG 11
+
+![vgg](assets/vgg.svg)
+
+### Resnet 18
+
+![resnet](assets/resnet.svg)
+
+### Convnext base
+
+TBC...
+
+### EfficientNet B0
+
+![efficientnet](assets/efficientnet.svg)
+
 ## Experiments' configurations
 
 **Dataset**: `CUB_200_2011`(birds classification).
 
 **Inference timing**: end-to-end, 2500 iterations with an input being a `1500x1500x3 uint8` tensor.
 
-**Training's configurations and models** :
+**Training's configurations** :
 
 |               | alexnet | vgg 11 | resnet 18 | convnext base | efficient b0 |
 |---------------|---------|--------|-----------|---------------|--------------|
