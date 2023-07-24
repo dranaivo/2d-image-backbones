@@ -6,19 +6,19 @@
 
 ![alexnet](assets/alexnet.svg)
 
-### VGG 11
+### VGG
 
 ![vgg](assets/vgg.svg)
 
-### Resnet 18
+### Resnet
 
 ![resnet](assets/resnet.svg)
 
-### Convnext base
+### Convnext
 
 TBD...
 
-### EfficientNet B0
+### EfficientNet
 
 ![efficientnet](assets/efficientnet.svg)
 
