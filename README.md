@@ -16,7 +16,7 @@
 
 ### Convnext base
 
-TBC...
+TBD...
 
 ### EfficientNet B0
 
@@ -38,12 +38,25 @@ TBC...
 
 ## Results
 
-### accuracy vs cpu performance vs model size
+### Train and Test logs
+
+[alexnet.out](logs/alexnet.out)
+
+vgg.out TBD...
+
+[resnet.out](logs/resnet.out)
+
+convnext.out TBD...
+
+efficient.out TBD..
+
+
+### Accuracy vs Performance on CPU vs Model size
 ![cpu](logs/comparison_cpu.jpg)
 
 **CPU** : `Intel(R) Xeon(R) CPU E5-2667 v3 @ 3.20GHz`
 
-### accuracy vs gpu performance vs model size
+### Accuracy vs Performance on GPU vs Model size
 ![gpu](logs/comparison_gpu.jpg)
 
 **GPU**: `NVIDIA Quadro RTX 6000`
