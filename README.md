@@ -30,11 +30,11 @@ TBD...
 
 **Training's configurations** :
 
-|               | alexnet | vgg 11 | resnet 18 | convnext base | efficient b0 |
-|---------------|---------|--------|-----------|---------------|--------------|
-| batch size    | 512     | 256    | 512       | 64            | 256          |
-| learning rate | 6e-4    | 7e-4   | 1e-3      | 6e-4          | 2e-3         |
-| epochs        | 30      | 30     | 30        | 30            | 30           |
+|               | alexnet | vgg 11 | resnet 18 | convnext base | efficientnet b0 |
+|---------------|---------|--------|-----------|---------------|-----------------|
+| batch size    | 512     | 256    | 512       | 64            | 256             |
+| learning rate | 6e-4    | 7e-4   | 1e-3      | 6e-4          | 2e-3            |
+| epochs        | 30      | 30     | 30        | 30            | 30              |
 
 ## Results
 
