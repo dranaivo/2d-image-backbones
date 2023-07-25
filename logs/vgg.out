@@ -1,0 +1,32 @@
+Epoch 01/30 - Time: 02m 02s | Train Loss: 5.869 | Train Acc @1: 1.3 % | Val. Loss: 4.869 | Val. Acc @1: 2.9 %
+Epoch 02/30 - Time: 01m 44s | Train Loss: 4.563 | Train Acc @1: 4.9 % | Val. Loss: 4.039 | Val. Acc @1: 7.5 %
+Epoch 03/30 - Time: 01m 45s | Train Loss: 3.732 | Train Acc @1: 11.9 % | Val. Loss: 3.252 | Val. Acc @1: 16.4 %
+Epoch 04/30 - Time: 01m 44s | Train Loss: 2.941 | Train Acc @1: 23.1 % | Val. Loss: 2.743 | Val. Acc @1: 28.8 %
+Epoch 05/30 - Time: 01m 45s | Train Loss: 2.349 | Train Acc @1: 35.1 % | Val. Loss: 2.251 | Val. Acc @1: 40.9 %
+Epoch 06/30 - Time: 01m 45s | Train Loss: 1.887 | Train Acc @1: 44.7 % | Val. Loss: 2.051 | Val. Acc @1: 43.9 %
+Epoch 07/30 - Time: 01m 44s | Train Loss: 1.572 | Train Acc @1: 53.2 % | Val. Loss: 1.825 | Val. Acc @1: 48.6 %
+Epoch 08/30 - Time: 01m 44s | Train Loss: 1.253 | Train Acc @1: 62.2 % | Val. Loss: 1.716 | Val. Acc @1: 52.3 %
+Epoch 09/30 - Time: 01m 46s | Train Loss: 0.987 | Train Acc @1: 69.7 % | Val. Loss: 1.714 | Val. Acc @1: 54.2 %
+Epoch 10/30 - Time: 01m 41s | Train Loss: 0.891 | Train Acc @1: 72.9 % | Val. Loss: 1.774 | Val. Acc @1: 53.3 %
+Epoch 11/30 - Time: 01m 44s | Train Loss: 0.740 | Train Acc @1: 77.4 % | Val. Loss: 1.581 | Val. Acc @1: 58.3 %
+Epoch 12/30 - Time: 01m 42s | Train Loss: 0.578 | Train Acc @1: 82.1 % | Val. Loss: 1.607 | Val. Acc @1: 58.5 %
+Epoch 13/30 - Time: 01m 41s | Train Loss: 0.455 | Train Acc @1: 85.6 % | Val. Loss: 1.618 | Val. Acc @1: 60.3 %
+Epoch 14/30 - Time: 01m 43s | Train Loss: 0.389 | Train Acc @1: 87.8 % | Val. Loss: 1.577 | Val. Acc @1: 63.8 %
+Epoch 15/30 - Time: 01m 43s | Train Loss: 0.354 | Train Acc @1: 89.1 % | Val. Loss: 1.615 | Val. Acc @1: 61.2 %
+Epoch 16/30 - Time: 01m 41s | Train Loss: 0.318 | Train Acc @1: 89.8 % | Val. Loss: 1.721 | Val. Acc @1: 60.8 %
+Epoch 17/30 - Time: 01m 40s | Train Loss: 0.352 | Train Acc @1: 89.0 % | Val. Loss: 1.587 | Val. Acc @1: 61.6 %
+Epoch 18/30 - Time: 01m 42s | Train Loss: 0.321 | Train Acc @1: 90.1 % | Val. Loss: 2.122 | Val. Acc @1: 57.2 %
+Epoch 19/30 - Time: 01m 41s | Train Loss: 0.341 | Train Acc @1: 89.2 % | Val. Loss: 1.716 | Val. Acc @1: 64.5 %
+Epoch 20/30 - Time: 01m 41s | Train Loss: 0.269 | Train Acc @1: 91.9 % | Val. Loss: 1.839 | Val. Acc @1: 63.3 %
+Epoch 21/30 - Time: 01m 42s | Train Loss: 0.212 | Train Acc @1: 93.6 % | Val. Loss: 1.824 | Val. Acc @1: 63.7 %
+Epoch 22/30 - Time: 01m 41s | Train Loss: 0.238 | Train Acc @1: 92.6 % | Val. Loss: 1.958 | Val. Acc @1: 62.4 %
+Epoch 23/30 - Time: 01m 41s | Train Loss: 0.216 | Train Acc @1: 93.5 % | Val. Loss: 1.757 | Val. Acc @1: 65.8 %
+Epoch 24/30 - Time: 01m 42s | Train Loss: 0.184 | Train Acc @1: 94.4 % | Val. Loss: 1.686 | Val. Acc @1: 65.7 %
+Epoch 25/30 - Time: 01m 40s | Train Loss: 0.167 | Train Acc @1: 95.1 % | Val. Loss: 1.708 | Val. Acc @1: 64.2 %
+Epoch 26/30 - Time: 01m 40s | Train Loss: 0.133 | Train Acc @1: 95.9 % | Val. Loss: 1.920 | Val. Acc @1: 62.0 %
+Epoch 27/30 - Time: 01m 41s | Train Loss: 0.109 | Train Acc @1: 96.5 % | Val. Loss: 1.924 | Val. Acc @1: 62.8 %
+Epoch 28/30 - Time: 01m 41s | Train Loss: 0.120 | Train Acc @1: 96.2 % | Val. Loss: 1.843 | Val. Acc @1: 64.3 %
+Epoch 29/30 - Time: 01m 41s | Train Loss: 0.109 | Train Acc @1: 96.8 % | Val. Loss: 1.798 | Val. Acc @1: 64.8 %
+Epoch 30/30 - Time: 01m 42s | Train Loss: 0.093 | Train Acc @1: 97.2 % | Val. Loss: 1.891 | Val. Acc @1: 67.5 %
+vgg 11 with bn model`s feature part has 9,225,984 trainable parameters
+Epoch 01/01 - Time: 00m 20s | Val. Loss: 1.635 | Val. Acc @1: 60.5 %

@@ -2,7 +2,7 @@
 
 ## Models
 
-### Alexnet
+### AlexNet
 
 ![alexnet](assets/alexnet.svg)
 
@@ -10,11 +10,11 @@
 
 ![vgg](assets/vgg.svg)
 
-### Resnet
+### ResNet
 
 ![resnet](assets/resnet.svg)
 
-### Convnext
+### ConvNeXt
 
 TBD...
 
@@ -42,13 +42,13 @@ TBD...
 
 [alexnet.out](logs/alexnet.out)
 
-vgg.out TBD...
+[vgg.out](logs/vgg.out)
 
 [resnet.out](logs/resnet.out)
 
-convnext.out TBD...
+[convnext.out](logs/convnext.out)
 
-efficient.out TBD..
+[efficientnet.out](logs/efficientnet.out)
 
 
 ### Accuracy vs Performance on CPU vs Model size
