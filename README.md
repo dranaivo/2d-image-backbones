@@ -16,7 +16,7 @@
 
 ### ConvNeXt
 
-TBD...
+![convnext](assets/convnext.svg)
 
 ### EfficientNet
 
